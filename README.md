@@ -9,32 +9,17 @@ The pogressive budget is a PWA application. The user can add new transaction amo
 
 ## Table of Contents 
 
-* [Video](#video)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 * [Questions](#questions)
-
-
-## Video
-
-![Walkthrough Video](./.gif)
+* [Heroku](#heroku)
 
 
 ## Installation
 
 Steps to install my project include:
 * npm install the dependencies 
-
-
-## Usage 
-
-![Getting Started](./pictures/.PNG)
-* 
-
-![Getting Started](./pictures/.PNG)
-* . 
 
 
 ## Credits
@@ -51,5 +36,9 @@ GitHub Username: dakuglin
 GitHub Profile: (https://github.com/dakuglin)
 
 Please email me with additional questions at dakuglin@gmail.com  
+
+
+## Heroku
+This application is deployed on Heroku at (https://stark-scrubland-23893.herokuapp.com/)
 
     
